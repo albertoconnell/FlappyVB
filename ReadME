@@ -1,0 +1,5 @@
+This game has no end and the pipes do not change shape. This game was made for fun.
+Upon starting there are 3 options. 
+  Start - this starts the game. You must press space to keep the VB6 label from touching the ground or any pipes.
+  COM - this starts the game but with the program controlling the height of the red VB6 label. (Note: you can still control the label with space if desired)
+  Exit - quits the game and closes the window.
